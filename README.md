@@ -1,6 +1,7 @@
 # Steemit Delegation Control with Selenium
 You can control "your" delegation(s) with selenium on steemd.com
 
+![](https://github.com/murattatar/steemit-delegation-control/blob/master/back.gif?raw=true)
 --- 
 ###  Setup
 * Download **[Python](https://www.python.org/downloads/)** (only tested on 2.7.x)
